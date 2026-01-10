@@ -5,7 +5,7 @@ Tower Defense *Demo* for Android
 
  The main character uses a magical wand.  The wand can pe freely moved or locked in place.  It also identifies different objects it is pointing at.  
   
-An element of leafs is swirling around the data object which serves as player's base.  In some versions the element can be summoned around the neighbouring fields and recalled.  
+An element of leafs is swirling around the data object which serves as player's base.  In some of the versions the element can be summoned around the neighbouring fields and recalled.  
   
 A frost tower is generating snow, keeping the base cool.  
   
