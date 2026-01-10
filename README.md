@@ -3,7 +3,7 @@ Games Rep.
 
 Tower Defense *Demo* for Android  
 
- The main character uses a magical wand.  The wand can pe freely moved or locked in place.  
+ The main character uses a magical wand.  The wand can pe freely moved or locked in place.  It also identifies different objects it is pointing at.  
   
   Practice your wand handling skills against invading creatures.  
   
