@@ -1,7 +1,7 @@
-# Games
-Games Rep.
-
 Tower Defense *Demo* for Android  
+
+![alt text](https://github.com/RgbTrouw/TowerDefense-Game/blob/root/Tower%20Defense%20Demo%20-%20Win%20Xp%20Background%20Theme.jpeg)  
+  
 
  The main character uses a magical wand.  The wand can pe freely moved or locked in place.  It also identifies different objects it is pointing at.  
   
