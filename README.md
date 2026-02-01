@@ -3,7 +3,7 @@ Tower Defense *Demo* for Android
 ![alt text](https://github.com/RgbTrouw/TowerDefense-Game/blob/root/Tower%20Defense%20Demo%20-%20Win%20Xp%20Background%20Theme.jpeg)  
   
 
- The main character uses a magical wand.  The wand can pe freely moved or locked in place.  It also identifies different objects it is pointing at.  
+ The main character uses a magical wand.  The wand can be freely moved or locked in place.  It also identifies different objects it is pointing at.  
   
 An element of leafs is swirling around the data object which serves as player's base.  In some of the versions the element can be summoned around the neighbouring fields and recalled.  
   
