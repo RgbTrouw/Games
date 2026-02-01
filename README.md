@@ -14,5 +14,5 @@ A frost tower is generating snow, keeping the base cool.
   
 *There is only one creature model for now (bubble element), but it comes in ever more numbers.  
   
-The program is just a starting point, with player movement, hit points, mana points, regeneration, xp etc. implemented.  
+The program is just a starting point (demo), with player movement, hit points, mana points, regeneration, xp etc. implemented.  
   
